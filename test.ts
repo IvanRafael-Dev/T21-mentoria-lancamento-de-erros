@@ -1,0 +1,3 @@
+function testanto() {
+  return 'oi'
+}
